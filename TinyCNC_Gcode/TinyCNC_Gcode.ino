@@ -4,6 +4,9 @@
   Convert SVG to GCODE with MakerBot Unicorn plugin for Inkscape available here https://github.com/martymcguire/inkscape-unicorn
 
   More information about the Mini CNC Plotter here (german, sorry): http://www.makerblog.at/2015/02/projekt-mini-cnc-plotter-aus-alten-cddvd-laufwerken/
+  
+  https://forum.arduino.cc/index.php?topic=491579.0
+  
 */
 
 #include <Servo.h>
